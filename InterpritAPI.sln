@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterpritAPI", "InterpritAPI\InterpritAPI.csproj", "{164A68F4-4D4A-41CA-902C-CBC48496E64B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterpritAPI.Test", "InterpritAPI.Test\InterpritAPI.Test.csproj", "{A61CB546-9AD6-4718-B621-3833C6E5BA38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{164A68F4-4D4A-41CA-902C-CBC48496E64B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{164A68F4-4D4A-41CA-902C-CBC48496E64B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{164A68F4-4D4A-41CA-902C-CBC48496E64B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{164A68F4-4D4A-41CA-902C-CBC48496E64B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A61CB546-9AD6-4718-B621-3833C6E5BA38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A61CB546-9AD6-4718-B621-3833C6E5BA38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A61CB546-9AD6-4718-B621-3833C6E5BA38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A61CB546-9AD6-4718-B621-3833C6E5BA38}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {828FAC5E-0D32-46E8-A1B7-F45CE6D4B3DA}
+	EndGlobalSection
+EndGlobal
